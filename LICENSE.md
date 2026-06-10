@@ -1,4 +1,4 @@
-# 
+# Turbo RAGFlow extensões. Com gerenciamento de memória e sistema de plugins — otimizado para máximo desempenho e eficiência.
 
 
 
